@@ -81,6 +81,11 @@ Agências de viagens enfrentam dificuldades em organizar informações sobre cli
 
 ---
 
+## 🗂️ Exemplos das Consultas Realizadas
+ [consulta-bd-mayara.pdf](https://github.com/user-attachments/files/21488241/consulta-bd-mayara.pdf)
+
+---
+
 ## 🧑‍💻 Tecnologias Utilizadas
 
 - MySQL
