@@ -1,4 +1,8 @@
 # bd_mayara
+
+[DER-mayara.pdf](https://github.com/user-attachments/files/21487145/DER-mayara.pdf)
+
+
 # 🌍 Projeto Viagens+
 
 ## 🧭 Tema
